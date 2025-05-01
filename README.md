@@ -1,7 +1,7 @@
 
-# 💬 Sentiment Analysis of Indonesian Tweets Using CNN
+# 💬 Analisis Sentimen Review Aplikasi Ruangguru
 
-Proyek ini bertujuan untuk melakukan **klasifikasi sentimen** terhadap teks berbahasa Indonesia (contohnya dari Twitter) menjadi dua kelas: **positif** dan **negatif**. Proyek ini menggunakan pendekatan **deep learning dengan model CNN (Convolutional Neural Network)** dan pre-trained word embeddings.
+Proyek ini bertujuan untuk melakukan **klasifikasi sentimen** terhadap teks revieew dari aplikasi Ruangguru menjadi dua kelas: **positif** dan **negatif**. Proyek ini menggunakan pendekatan **deep learning dengan model CNN (Convolutional Neural Network)** dan pre-trained word embeddings.
 
 ---
 
